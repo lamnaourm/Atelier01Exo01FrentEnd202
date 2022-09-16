@@ -2,7 +2,7 @@
 const Res = ()=> {
     return (
       <div className='form_control'>
-        <label htmlFor='res'>resultat : </label>
+        <label htmlFor='res'>Resultat : </label>
         <input type='number' id='res' readOnly/>
       </div>
     );
